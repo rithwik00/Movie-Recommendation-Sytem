@@ -1,2 +1,2 @@
 # Movie-Recommendation-Sytem
- Collaborative Filtering Technique
+ Collaborative Filtering Approach
